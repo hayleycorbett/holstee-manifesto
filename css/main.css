@@ -1,0 +1,130 @@
+body {
+    font-family: 'Arvo', serif;
+    text-transform: uppercase;
+    width: 39%;
+}
+.thisisyour {
+    font-size:35px;
+}
+.life {
+    font-size: 97px;
+    float: right;
+    line-height: 90px;
+}
+.dowhatyoulove {
+    font-size: 19px;
+    word-spacing: 11px;
+}
+.anddoitoften {
+    font-size: 20px;
+    word-spacing: 20px;
+}
+.changeit {
+    font-size: 21px;
+}
+.job {
+    font-size: 27px;
+}
+.tv {
+    font-size: 16.3px;
+}
+.loveoflife {
+    font-size: 16.5px;
+}
+.waiting {
+    font-size: 20.3px;
+}
+.thingsyoulove {
+    font-size: 28px;
+    word-spacing: 2.5px;
+}
+.left {
+    float: left;
+    width: 50%;
+}
+.stop {
+    font-size: 19px;
+    line-height: 30px;
+}
+.simple {
+    font-size: 31px;
+}
+.emotions {
+    font-size: 14.5px;
+    word-spacing: 2px;
+}
+.eat {
+    font-size: 16px;
+}
+.bite {
+    font-size: 25px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+.open {
+	font-size: 17.4px;
+}
+.andpeople {
+    font-size: 17.4px;
+    word-spacing: 4.48px;
+}
+.passion {
+    font-size: 16.5px;
+    word-spacing: 0.5px;
+}
+.dream {
+    font-size: 18.9px;
+}
+.left2 {
+    font-size: 31px;
+    float: left;
+    width: 52%;
+}
+.lost {
+    font-size: 20px;
+    word-spacing: 10px;
+}
+.help {
+    font-size: 15px;
+    word-spacing: 10.5px;
+}
+.opportunities {
+    font-size: 17.4px;
+}
+.lifeabout {
+    font-size: 22.1px;
+}
+.create {
+    font-size: 24.2px;
+}
+.gocreate {
+    font-size: 27.7px;
+}
+.lifeis {
+    font-size: 54px;
+    word-spacing: 10px;
+}
+.short {
+    font-size: 50px;
+}
+.lifeisshort {
+    font-size: 50px;
+    width: 40%;
+    float: left;
+}
+.dream2 {
+    line-height:40px;
+}
+
+.liveyourdream {
+    font-size: 30px;
+    float: right;
+}
+.share {
+    font-size: 47px;
+    float: right;
+}
+.yourpassion {
+    font-size: 36.5px;
+    float: right;
+}
